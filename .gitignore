@@ -1,0 +1,4 @@
+#Ignore Build directories
+samplemulti-app/build/
+samplemulti-app/Core/build
+samplemulti-app/Common/build
